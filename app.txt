@@ -1,5 +1,6 @@
-Hello Git
-hello
+Hi Github
+
+hello all
 update from branc1 to main
 testing squash
 merge
